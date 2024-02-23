@@ -9,10 +9,6 @@ const MealsSummary = () => {
         Delivered to you your door steps. Have a great Meal time. Delivered to
         you your door steps. Have a great Meal time
       </p>
-      <p>
-        Delivered to you your door steps. Have a great Meal time. Delivered to
-        you your door steps. Have a great Meal time
-      </p>
     </section>
   );
 };
